@@ -123,7 +123,7 @@ foo@bar:~$ sudo bash ADB-XB.sh
 
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/ledeXb/ADB-XB/master/screenshots/git2.png"><br><br>
-    <img align="center" src="https://raw.githubusercontent.com/ledeXb/ADB-XB/master/screenshots/git3.png"><br><br>
+    <img align="center" src="https://raw.githubusercontent.com/ledeXb/ADB-XB/master/screenshots/git3.jpeg"><br><br>
     <img align="center" src="https://raw.githubusercontent.com/ledeXb/ADB-XB/master/screenshots/git4.jpeg"><br><br>
 </p>
 
