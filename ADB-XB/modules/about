@@ -1,0 +1,28 @@
+#!/bin/bash
+
+echo
+echo -e "\e[1;37mAUTHOUR NAME : \e[1;4;91mLINUX XB\e[0m"|lolcat
+echo -e
+
+echo -e "\e[1;37mTOOL NAME : \e[1;4;91mADB-XB\e[0m"|lolcat
+echo -e
+
+echo -e "\e[1;37mDATE : \e[1;91m19/07/202023\e[0m"|lolcat
+echo -e
+
+echo -e "\e[1;37mGITHUB : \e[1;91mhttps://github.com/ledexb\e[0m"|lolcat
+echo -e
+
+echo -e "\e[1;37mNOTE : \e[1;91mPlease don't use for wrong intension just use for educational purpose cause its an educational tool.\e[0m"|lolcat
+echo -e
+
+echo -e "\e[1;37mWRITTEN LANGUAGE : \e[1;91mBASH\e[0m"|lolcat
+echo
+echo
+echo
+sleep 7
+clear
+echo -e "DONE"|lolcat
+sleep 1
+clear
+bash modules/funtion.sh
