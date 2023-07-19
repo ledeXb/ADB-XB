@@ -123,13 +123,12 @@ foo@bar:~$ sudo bash ADB-XB.sh
 
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/ledeXb/ADB-XB/master/screenshots/git2.png"><br><br>
-    <img align="center" src="https://raw.githubusercontent.com/ledeXb/ADB-XB/master/screenshots/git3.jpeg"><br><br>
+    <img align="center" src="https://raw.githubusercontent.com/ledeXb/ADB-XB/master/screenshots/git3.png"><br><br>
     <img align="center" src="https://raw.githubusercontent.com/ledeXb/ADB-XB/master/screenshots/git4.jpeg"><br><br>
 </p>
 
 # SUPPORT 
-[![YouTube](https://www.google.com/imgres?imgurl=https%3A%2F%2Fkhamsat.hsoubcdn.com%2Fimages%2Fservices%2F972009%2F6342e23eb4f90cd3a541c5f5495c8455.jpg&tbnid=SWu634udYuobwM&vet=12ahUKEwicoLyQkJuAAxU3rycCHbl-C_EQMygDegQIARBQ..i&imgrefurl=https%3A%2F%2Fkhamsat.com%2Fmarketing%2Fmarketing-services%2F1067471-350-%25D9%2585%25D8%25B4%25D8%25AA%25D8%25B1%25D9%2583-%25D8%25AD%25D9%2582%25D9%258A%25D9%2582%25D9%258A-%25D9%258A%25D9%2588%25D8%25AA-%25D9%258A%25D9%2588%25D8%25A8-%25D9%2585%25D9%2582%25D8%25A7%25D8%25A8%25D9%2584-5-%25D8%25AF%25D9%2588%25D9%2584%25D8%25A7%25D8%25B1&docid=9x-Z-AlbdgUQuM&w=1255&h=720&q=%D9%8A%D9%88%D8%AA&ved=2ahUKEwicoLyQkJuAAxU3rycCHbl-C_EQMygDegQIARBQ-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@LinuxXB)
-
+[![YouTube](https://img.shields.io/badge/youtube-TECH--COCHI-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@LinuxXB)
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -137,4 +136,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Author
 
-- **ASHWINI SAHU** - _WHOLE WORK_ - (https://github.com/ledeXb)
+- **LINUX XB** - _WHOLE WORK_ - (https://github.com/ledeXb)
