@@ -5,9 +5,9 @@ clean_exit () {
   rm -rf $PWD/.temp/* &> /dev/null
   rm -rf $PWD/1 &> /dev/null
   rm -rf $PWD/2 &> /dev/null
-  clear && echo -e "\nCtrl-C caught...Performing Clean Up Thanks for Using.\n"
-  echo -e "Exiting the ADB-Toolkit, Thanks for using."
-  echo -e "\nDONE"
+  clear && echo -e "\nCtrl-C caught...Performing Clean Up Thanks for Using.\n"|lolcat 
+  echo -e "Exiting the ADB-XB, Thanks for using."|lolcat 
+  echo -e "\nDONE"|lolcat 
   exit 0
 
 }

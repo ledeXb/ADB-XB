@@ -8,8 +8,8 @@ clean_exit () {
   rm -rf $PWD/1 &> /dev/null
   rm -rf $PWD/2 &> /dev/null
   clear && echo -e "\nCtrl-C caught...Performing Clean Up Thanks for Using.\n" && sleep 1s
-  echo -e "Exiting the ADB-Toolkit, Thanks for using."
-  echo -e "\nDONE"
+  echo -e "Exiting the ADB-Toolkit, Thanks for using."|lolcat 
+  echo -e "\nDONE"|lolcat
   exit
 
 }
