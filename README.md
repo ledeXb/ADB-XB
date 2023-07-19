@@ -128,7 +128,7 @@ foo@bar:~$ sudo bash ADB-XB.sh
 </p>
 
 # SUPPORT 
-[![YouTube](https://img.shields.io/badge/youtube-LINUX XB-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@LinuxXB)
+[![YouTube](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.albayan.ae%2Fpolopoly_fs%2F1.4011586.1605143776!%2Fimage%2Fimage.jpg&tbnid=wcRj6jduW03PDM&vet=12ahUKEwicoLyQkJuAAxU3rycCHbl-C_EQMygEegQIARBS..i&imgrefurl=https%3A%2F%2Fwww.albayan.ae%2Ftechnology%2Fsmart-devices%2F2020-11-12-1.4011585&docid=KHh0Oj_7nZr_IM&w=1280&h=720&itg=1&q=%D9%8A%D9%88%D8%AA&ved=2ahUKEwicoLyQkJuAAxU3rycCHbl-C_EQMygEegQIARBS-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@LinuxXB)
 
 ## Contributing
 
