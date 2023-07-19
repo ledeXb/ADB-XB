@@ -113,7 +113,7 @@ foo@bar:~$ sudo ./ADB-XB.sh
 foo@bar:~$ sudo bash ADB-XB.sh
 ```
 
-## ADB-Toolkit Screenshot
+## ADB-XB Screenshot
 
 <p align="center">
     <img align="center" src="https://raw.githubusercontent.com/ledeXb/ADB-XB/master/screenshots/git1.png"><br>
